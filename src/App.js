@@ -7,6 +7,9 @@ function App() {
       <div className='fcc-logo-container'>
         <img src={fccLogo} alt='logo fcc' className='fcc-logo' />
       </div>
+      <div className="container">
+        
+      </div>
     </div>
   );
 }
