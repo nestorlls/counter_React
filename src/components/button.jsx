@@ -1,4 +1,3 @@
-import React from 'react';
 import '../sytesheets/Button.css'
 
 function Button({ text, isButtonClick, listenClick }) {
