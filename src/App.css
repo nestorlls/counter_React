@@ -29,3 +29,8 @@ body {
 .fcc-logo {
   height: 50px;
 }
+
+.container {
+  display: flex;
+  gap: 10px;
+}
